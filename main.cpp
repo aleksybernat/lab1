@@ -10,7 +10,7 @@ int main(int argc, char **argv)
 	int n;
 	drawCharSquare(charSquare(n), n);	
 }
-
+sdfg
 char **charSquare(int n)
 {
 	char **square;

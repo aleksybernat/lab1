@@ -25,6 +25,7 @@ int main(int argc, char **argv)
 
 	drawCharSquare(charSquare(n), n);
 	fInfo(n, seed);
+	return 0;
 }
 
 char **charSquare(int n)

@@ -60,3 +60,5 @@ void fInfo(int n, int seed)
 {
 	printf("Ilosc znakow w boku kwadratu: %d\nZiarno generatora: %d\n", n, seed);
 }
+
+// Aleksy Bernat 226023
